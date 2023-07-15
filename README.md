@@ -9,6 +9,7 @@ GeoNote - это приложение, позволяющее пользоват
 - Просмотр списка существующих маркеров
 
 Используемые технологии:
+- Kotlin
 - MVVM
 - Coroutines
 - Koin
@@ -20,12 +21,8 @@ GeoNote - это приложение, позволяющее пользоват
 
 <div align="center">
     <img src="/screenshots/Screenshot_01.png" width="400px"><p>Главный экран с маркером текущего местоположения пользователя</p></img> 
-</div>
-<br>
-<div align="center">
+    <br>
     <img src="/screenshots/Screenshot_02.png" width="400px"><p>Главный экран с отмеченной точкой на карте</p></img> 
-</div>
-<br>
-<div align="center">
+    <br>
     <img src="/screenshots/Screenshot_03.png" width="400px"><p>Список пользовательских маркеров</p></img> 
 </div>
